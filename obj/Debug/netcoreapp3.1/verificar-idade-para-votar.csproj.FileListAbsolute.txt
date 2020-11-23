@@ -1,0 +1,13 @@
+C:\Users\leand\OneDrive\Área de Trabalho\verificar-idade-para-votar\bin\Debug\netcoreapp3.1\verificar-idade-para-votar.exe
+C:\Users\leand\OneDrive\Área de Trabalho\verificar-idade-para-votar\bin\Debug\netcoreapp3.1\verificar-idade-para-votar.deps.json
+C:\Users\leand\OneDrive\Área de Trabalho\verificar-idade-para-votar\bin\Debug\netcoreapp3.1\verificar-idade-para-votar.runtimeconfig.json
+C:\Users\leand\OneDrive\Área de Trabalho\verificar-idade-para-votar\bin\Debug\netcoreapp3.1\verificar-idade-para-votar.runtimeconfig.dev.json
+C:\Users\leand\OneDrive\Área de Trabalho\verificar-idade-para-votar\bin\Debug\netcoreapp3.1\verificar-idade-para-votar.dll
+C:\Users\leand\OneDrive\Área de Trabalho\verificar-idade-para-votar\bin\Debug\netcoreapp3.1\verificar-idade-para-votar.pdb
+C:\Users\leand\OneDrive\Área de Trabalho\verificar-idade-para-votar\obj\Debug\netcoreapp3.1\verificar-idade-para-votar.csprojAssemblyReference.cache
+C:\Users\leand\OneDrive\Área de Trabalho\verificar-idade-para-votar\obj\Debug\netcoreapp3.1\verificar-idade-para-votar.AssemblyInfoInputs.cache
+C:\Users\leand\OneDrive\Área de Trabalho\verificar-idade-para-votar\obj\Debug\netcoreapp3.1\verificar-idade-para-votar.AssemblyInfo.cs
+C:\Users\leand\OneDrive\Área de Trabalho\verificar-idade-para-votar\obj\Debug\netcoreapp3.1\verificar-idade-para-votar.csproj.CoreCompileInputs.cache
+C:\Users\leand\OneDrive\Área de Trabalho\verificar-idade-para-votar\obj\Debug\netcoreapp3.1\verificar-idade-para-votar.dll
+C:\Users\leand\OneDrive\Área de Trabalho\verificar-idade-para-votar\obj\Debug\netcoreapp3.1\verificar-idade-para-votar.pdb
+C:\Users\leand\OneDrive\Área de Trabalho\verificar-idade-para-votar\obj\Debug\netcoreapp3.1\verificar-idade-para-votar.genruntimeconfig.cache
